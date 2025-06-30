@@ -1166,6 +1166,7 @@ groups = ["main"]
 files = [
     {file = "django-sendgrid-v5-1.2.3.tar.gz", hash = "sha256:3887aafbb10d5b808efc2c1031dcd96fd357d542eb5affe38fef07cc0f3cfae9"},
     {file = "django_sendgrid_v5-1.2.3-py2.py3-none-any.whl", hash = "sha256:2d2fa8a085d21c95e5f97fc60b61f199ccc57a27df8da90cd3f29a5702346dc6"},
+    {file = "django_sendgrid_v5-1.2.3-py3-none-any.whl", hash = "sha256:f6a44ee37c1c3cc7d683a43c55ead530417be1849a8a41bde02b158009559d9d"},
 ]
 
 [package.dependencies]
